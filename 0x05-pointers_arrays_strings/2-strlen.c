@@ -4,7 +4,7 @@
 
 /**
  * _strlen - length of  string
- * @str: input char
+ * @s: parameter to be measured
  * Return: length of a string
  */
 
