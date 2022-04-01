@@ -1,3 +1,3 @@
 #----------------------------#
-This repository contains all projects on C
+This repository contains static libraries
 #----------------------------#
