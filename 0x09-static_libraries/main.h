@@ -1,10 +1,13 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+<<<<<<< HEAD
 int _putchar(char c);
 int _islower(int c);
 int _isalpha(int c);
 int _abs(int n);
+=======
+>>>>>>> 358ed8a633cb92ef6057920cb50bc81b8426a200
 int _isupper(int c);
 int _isdigit(int c);
 int _strlen(char *s);

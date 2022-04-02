@@ -1,3 +1,3 @@
 #----------------------------#
-This repository contains basic C projects.
+This repository contains all projects on C
 #----------------------------#
